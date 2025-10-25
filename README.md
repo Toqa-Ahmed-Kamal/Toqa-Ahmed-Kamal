@@ -14,55 +14,25 @@
 
 ---
 
-<div align="center">
+<!-- Typing animation: choose one of the <img> lines below and paste it where you want the typing text to appear in this README. -->
 
-<!-- Animated text: reveal -> hold -> erase (SVG animation) -->
+## ✍️ Typing animation (pick one)
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 110" width="900" height="110" role="img" aria-label="Animated about text">
-  <defs>
-    <linearGradient id="grad" x1="0" x2="1">
-      <stop offset="0%" stop-color="#7ee8fa"/>
-      <stop offset="50%" stop-color="#6dd3ff"/>
-      <stop offset="100%" stop-color="#4f46e5"/>
-    </linearGradient>
-    <mask id="revealMask">
-      <rect x="0" y="0" width="0" height="110" fill="white">
-        <animate attributeName="width"
-                 values="0;900;900;0"
-                 keyTimes="0;0.25;0.75;1"
-                 dur="5s"
-                 repeatCount="indefinite" />
-      </rect>
-    </mask>
-    <filter id="glow">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="0" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-  </defs>
+<!-- Option 1: single line -->
 
-  <rect width="100%" height="100%" fill="transparent"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7EE8FA&width=800&lines=using+React%2C+ArcGIS+API%2C+OpenLayers%2C+and+modern+frontend+patterns" alt="typing animation" />
 
-  <g mask="url(#revealMask)" filter="url(#glow)">
-    <text x="50%" y="55" text-anchor="middle" font-family="Inter, Arial, Helvetica, sans-serif" font-weight="700" font-size="20" fill="url(#grad)">
-      <tspan x="50%">using React, ArcGIS API, OpenLayers, and modern frontend patterns</tspan>
-    </text>
-    <!-- subtle neon blink -->
-    <rect x="0" y="0" width="900" height="110" fill="#ffffff" opacity="0">
-      <animate attributeName="opacity" values="0;0.06;0;0.12;0" dur="5s" repeatCount="indefinite" />
-    </rect>
-  </g>
+<!-- Option 2: two lines -->
 
-  <!-- underline draws with reveal -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=F7DF1E&width=900&lines=Frontend+Engineer+focused+on+precision;Developer+of+real-world+geospatial+solutions" alt="typing animation multi-line" />
 
-  <rect x="140" y="80" width="620" height="3" rx="2" fill="#7ee8fa">
-    <animate attributeName="width" values="0;620;620;0" keyTimes="0;0.25;0.75;1" dur="5s" repeatCount="indefinite" />
-  </rect>
-</svg>
+<!-- Option 3: small/fast for header -->
 
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=600&color=FFFFFF&width=700&lines=Map-powered+interfaces+that+are+fast%2C+clean+and+useful" alt="typing animation small" />
+
+---
+
+> `Tip:` To change the text, edit the `lines=` parameter in the image URL. Use `+` for spaces and `;` to separate multiple lines. Change `color`, `size`, `pause`, and `width` to suit your style.
 
 ---
 
