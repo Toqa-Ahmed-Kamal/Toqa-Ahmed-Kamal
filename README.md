@@ -7,7 +7,7 @@
 <p>
 <a href="https://www.linkedin.com/in/toqa-kamal-34b444272/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Toqa%20Kamal-blue?logo=linkedin&style=for-the-badge"/></a>
 <a href="mailto:toqa.ahmed9988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-toqaahmedkamal@gmail.com -lightgrey?logo=gmail&style=for-the-badge"/></a>
-<a href="https://github.com/TOQA_USERNAME"><img alt="Profile" src="https://img.shields.io/badge/GitHub-@TOQA_USERNAME-181717?logo=github&style=for-the-badge"/></a>
+<a href="https://github.com/Toqa-Ahmed-Kamal"><img alt="Profile" src="https://img.shields.io/badge/GitHub-@TOQA_USERNAME-181717?logo=github&style=for-the-badge"/></a>
 </p>
 
 </div>
