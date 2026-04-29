@@ -58,10 +58,11 @@
 
 ## 📈 GitHub Stats
 
-![Toqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+[![Toqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+](https://github-readme-stats.vercel.app/api?username=Toqa-Ahmed-Kamal&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+](https://github-readme-stats.vercel.app/api/top-langs/?username=Toqa-Ahmed-Kamal&layout=compact&theme=radical)
 ---
 
 <p align="center">
