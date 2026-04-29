@@ -6,33 +6,15 @@
 
 <p>
 <a href="https://www.linkedin.com/in/toqa-kamal-34b444272/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Toqa%20Kamal-blue?logo=linkedin&style=for-the-badge"/></a>
-<a href="mailto:toqa.ahmed9988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-toqaahmedkamal@gmail.com -lightgrey?logo=gmail&style=for-the-badge"/></a>
-<a href="https://github.com/Toqa-Ahmed-Kamal"><img alt="Profile" src="https://img.shields.io/badge/GitHub-@Toqa-Ahmed-Kamallogo=github&style=for-the-badge"/></a>
+<a href="mailto:toqa.ahmed9988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-toqaahmedkamal@gmail.com-lightgrey?logo=gmail&style=for-the-badge"/></a>
+<a href="https://github.com/YOUR_GITHUB_USERNAME"><img alt="Profile" src="https://img.shields.io/badge/GitHub-Toqa%20Ahmed%20Kamal-181717?logo=github&style=for-the-badge"/></a>
 </p>
 
 </div>
 
 ---
 
-<!-- Typing animation: choose one of the <img> lines below and paste it where you want the typing text to appear in this README. -->
-
-## ✍️ Typing animation (pick one)
-
-<!-- Option 1: single line -->
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=7EE8FA&width=800&lines=using+React%2C+ArcGIS+API%2C+OpenLayers%2C+and+modern+frontend+patterns" alt="typing animation" />
-
-<!-- Option 2: two lines -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=800&color=F7DF1E&width=900&lines=Frontend+Engineer+focused+on+precision;Developer+of+real-world+geospatial+solutions" alt="typing animation multi-line" />
-
-<!-- Option 3: small/fast for header -->
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=600&color=FFFFFF&width=700&lines=Map-powered+interfaces+that+are+fast%2C+clean+and+useful" alt="typing animation small" />
-
----
-
-> `Tip:` To change the text, edit the `lines=` parameter in the image URL. Use `+` for spaces and `;` to separate multiple lines. Change `color`, `size`, `pause`, and `width` to suit your style.
 
 ---
 
@@ -74,18 +56,14 @@
 
 ---
 
-## 📈 GitHub Extras (optional)
+## 📈 GitHub Stats
 
-Add these under your README to show dynamic stats (replace `YOUR_GITHUB_USERNAME`):
-
-```md
 ![Toqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
-```
 
 ---
 
 <p align="center">
-<sub>Last updated: 2025-10-25 — Edit this file to add your GitHub username for live cards and to fine-tune icons/colors.</sub>
+<sub>Last updated: 2026-04-29</sub>
 </p>
