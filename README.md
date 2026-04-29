@@ -56,7 +56,10 @@
 
 ---
 
-## 📈 GitHub Stats![Toqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toqa-Ahmed-Kamal&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+
+![Toqa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Toqa-Ahmed-Kamal&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toqa-Ahmed-Kamal&layout=compact&theme=radical)
 ---
