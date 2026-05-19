@@ -56,13 +56,7 @@
 
 ---
 
-## 📈 GitHub Stats
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Toqa-Ahmed-Kamal&layout=compact&theme=radical)
-
----
 
 <p align="center">
 <sub>Last updated: 2026-04-29</sub>
